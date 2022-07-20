@@ -10,7 +10,12 @@ I Can rename ✍ with custom thumbnail and upload as video/file
 Type /help for more details."""
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
-    UPGRADE_TEXT = "There is no upgrade plan till now it will be added in future"
+    UPGRADE_TEXT = """➥ Paid User ₹99/$2/month
+➥ No Time Delay
+➥ Parallel process: 1
+UPI :- movieslandgroup@ybl
+Send Payment Screenshot and Your Telegram Id to @MLDBadmin
+"""
     DOWNLOAD_START_VIDEO = "Downloading to my server.....📥"
     DOWNLOAD_START = "Downloading to my server.....📥"
     UPLOAD_START_VIDEO = "Uploading as video.....📤"
@@ -24,7 +29,7 @@ Type /help for more details."""
     DEL_ETED_CUSTOM_THUMB_NAIL = "✅ Custom thumbnail cleared succesfully."
     FF_MPEG_DEL_ETED_CUSTOM_MEDIA = "✅ Media cleared succesfully."
     SAVED_RECVD_DOC_FILE = "Document Downloaded Successfully."
-    CUSTOM_CAPTION_UL_FILE = "@renamer_Ns_bot"
+    CUSTOM_CAPTION_UL_FILE = "@mrtonystrk_bot"
     NO_CUSTOM_THUMB_NAIL_FOUND = "No Custom ThumbNail found."
     USER_ADDED_TO_DB = "User <a href='tg://user?id={}'>{}</a> added to {} till {}."
     HELP_USER = """Hai <b><i>{}</i></b>, 
