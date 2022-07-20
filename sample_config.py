@@ -17,9 +17,9 @@ class Config(object):
     # the download location, where the HTTP Server runs
     DOWNLOAD_LOCATION = "./DOWNLOADS"
     # Telegram maximum file upload size
-    MAX_FILE_SIZE = 50000000
+    MAX_FILE_SIZE = 100000000
     TG_MAX_FILE_SIZE = 2097152000
-    FREE_USER_MAX_FILE_SIZE = 50000000
+    FREE_USER_MAX_FILE_SIZE = 100000000
     # chunk size that should be used with requests
     CHUNK_SIZE = int(os.environ.get("CHUNK_SIZE", 128))
     # default thumbnail to be used in the videos
@@ -34,5 +34,5 @@ class Config(object):
     # set timeout for subprocess
     PROCESS_MAX_TIMEOUT = 3600
     # watermark file
-    DEF_WATER_MARK_FILE = "Renamed by @renamer_ns_bot"
+    DEF_WATER_MARK_FILE = "Renamed by @mrtonystrk_bot"
 
